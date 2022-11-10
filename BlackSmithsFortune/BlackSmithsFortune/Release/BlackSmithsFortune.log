@@ -1,0 +1,15 @@
+﻿  AiMovement.cpp
+  BuildManager.cpp
+  Invetory.cpp
+  Map.cpp
+  MapManager.cpp
+  Pawn.cpp
+  Player.cpp
+  PlayerShop.cpp
+  Shop.cpp
+  Source.cpp
+  Weapon.cpp
+  Generating code
+  All 841 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BlackSmithsFortune.vcxproj -> F:\BlackSmithsFortune\Release\BlackSmithsFortune.exe
