@@ -1,0 +1,12 @@
+﻿  Source.cpp
+  RandEncounter.cpp
+  Player.cpp
+c:\users\mateo\desktop\school\s2\objprogramming_255\russomatteo_gap255_midtermproject\minisurvival\minisurvival\player.cpp(73): warning C4018: '>': signed/unsigned mismatch
+c:\users\mateo\desktop\school\s2\objprogramming_255\russomatteo_gap255_midtermproject\minisurvival\minisurvival\player.cpp(98): warning C4018: '>': signed/unsigned mismatch
+c:\users\mateo\desktop\school\s2\objprogramming_255\russomatteo_gap255_midtermproject\minisurvival\minisurvival\player.cpp(286): warning C4018: '>=': signed/unsigned mismatch
+  ItemFactory.cpp
+  Days.cpp
+  DayEvents.cpp
+  Generating Code...
+  MiniSurvival.vcxproj -> C:\Users\Mateo\Desktop\school\s2\objProgramming_255\RussoMatteo_GAP255_MidtermProject\MiniSurvival\Debug\MiniSurvival.exe
+  MiniSurvival.vcxproj -> C:\Users\Mateo\Desktop\school\s2\objProgramming_255\RussoMatteo_GAP255_MidtermProject\MiniSurvival\Debug\MiniSurvival.pdb (Partial PDB)
