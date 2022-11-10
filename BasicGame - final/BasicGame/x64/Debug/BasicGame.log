@@ -1,0 +1,14 @@
+﻿  World.cpp
+  TileBehavior.cpp
+  Tile.cpp
+  Source.cpp
+  Pickup.cpp
+  Pawn.cpp
+  LevelMaker.cpp
+  Level.cpp
+  Grid.cpp
+  DrawFunction.cpp
+  DirectoryReader.cpp
+  Generating Code...
+  BasicGame.vcxproj -> C:\Users\Mateo\Desktop\school\s4\OOP\BasicGame - final\x64\Debug\BasicGame.exe
+  BasicGame.vcxproj -> C:\Users\Mateo\Desktop\school\s4\OOP\BasicGame - final\x64\Debug\BasicGame.pdb (Partial PDB)
