@@ -1,6 +1,6 @@
-# OldSchoolProjects
-Each branch contains a different project I have made while in school for assignments. These are old projects now of mine but demonstrate my skill in code architecture and C++. These are not all of my projects but ones I have chosen to share as they have a skill show or enough functionality to warrant sharing.
+# Bad_SDL_Game
+Perhaps my most embarrassing project as it never grew to what I had planned for it to become and achieved little in making a functional game but I have decided to share it as it is my biggest project from my old school. I have uploaded all the files I made myself but not all the files for it to run. 
 
-I do not intend on editing these projects, at least not here. They are uploaded as they were turned in to my teachers, spelling errors and all. 
+The project uses a version of SDL2 for the display of sprites. If the project ran it would display an animated 2d character that could walk up, down, left, and right on the screen with a background image and images that represent walls and spikes the player can collide with. 
 
-All files have been uploaded from their folders. The C++ gitignore has also been added. 
+I did not go through all the files uploaded as they remind me of the times I was in while working on this project but I feel it is a show of growth and possibly what I was able to accomplish back then. It use to be my largest project but now I have created projects in Unity with many more lines of code that work. Look at this project for what it is worth and the growth I have made in he years since. 
